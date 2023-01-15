@@ -11,4 +11,4 @@ The modules incuded:
 7. Time series analysis
 8. Computer vision (no homework was necessary)
 
-Towards the end of the course, I have created a final project, please see a separate repository https://github.com/Marharyta1995/Enzyme_predictor
+Towards the end of the course, I have created a final project, please see its separate repository https://github.com/Marharyta1995/Enzyme_predictor
